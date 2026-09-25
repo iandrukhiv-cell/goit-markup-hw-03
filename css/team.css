@@ -14,6 +14,7 @@
 .team-card {
     width: calc((100% - 72px) / 4);
     background-color: #ffffff;
+    border-radius: 0 0 4px 4px;
 }
 
 .team-info {
